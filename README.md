@@ -3,4 +3,4 @@ Using python to scrape and analyse Facebook Messenger data, **downloaded as HTML
 
 ___
 
-If you're having **trouble loading** *messenger-scraping.ipynb*, please do use this Jupyter's nbviewer: https://nbviewer.jupyter.org/github/pedromlsreis/facebook-messenger-scraping/blob/master/scraping-messenger.ipynb
+If you're having **trouble rendering** *messenger-scraping.ipynb* in GitHub, please do use Jupyter's nbviewer: https://nbviewer.jupyter.org/github/pedromlsreis/facebook-messenger-scraping/blob/master/scraping-messenger.ipynb
